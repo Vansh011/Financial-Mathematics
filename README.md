@@ -1,5 +1,4 @@
 # Financial-Mathematics
-Financial derivatives, options, futures, forwards, swaps , The Black-Scholes-Merton model and volatility.
 The project provides an in-depth understanding of financial derivatives and their applications
 in modern financial markets. It covers a broad range of topics, including options, futures,
 forwards, swaps, and other derivative instruments, as well as the underlying theories and
